@@ -363,9 +363,9 @@ See the LICENSE file for more information.
 
 Your Name
 
-* GitHub: @your-username
-* LinkedIn: your-linkedin
-* Email: your-email@example.com
+* GitHub: Aditya792max
+* LinkedIn: https://www.linkedin.com/in/aditya-vikram-kirtania-b6682a280/
+* Email: adityavkirtania@gmail.com
 
 ⸻
 
@@ -378,7 +378,7 @@ It helps the project grow and motivates further development.
 ⸻
 
 <p align="center">
-  Made with ❤️ by <strong>Your Name</strong>
+  Made with ❤️ by <strong>Aditya Vikram Kirtania</strong>
 </p>
 
 
