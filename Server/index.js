@@ -10,7 +10,7 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 
-
+// Importing Routes in order to work on the codes.
 app.use('/api/users', UserRoute);
 
 
@@ -30,4 +30,6 @@ mongoose.connect(MONGODB_URI)
         console.error(error);
         console.log("Error connecting to MongoDB....");
     });
+
+
 
