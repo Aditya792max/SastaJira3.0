@@ -380,3 +380,6 @@ It helps the project grow and motivates further development.
 <p align="center">
   Made with ❤️ by <strong>Your Name</strong>
 </p>
+
+
+<!-- AI Slop hai Bhai aage badh ja -->
