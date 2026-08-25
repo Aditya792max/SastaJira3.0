@@ -104,3 +104,27 @@ exports.login = async (req, res) => {
     });
   }
 };
+
+exports.getUser = async (req,res) => {
+    try{
+        if(req.user.role !== "manager"){
+            return res.status(403).json({
+                message:"Forbidden Request"
+            });
+        }
+        const users = await User.find().select("-password");
+        res.json(users);
+    }catch(error){
+        console.error(error);
+        res.status(500).json({
+            message :"Server Error"
+        });
+    }
+};
+
+
+// exports.getUser = async (req, res) => {
+
+//     console.log(req.user.role);
+
+// };
