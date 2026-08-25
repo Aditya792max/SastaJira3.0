@@ -1,0 +1,2514 @@
+[
+    {
+        "_id": "6a8d460ab8d3a5293404d24e",
+        "title": "JIRA Sample Ticket 1",
+        "description": "Sample JIRA ticket 1 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca6784dc16e5985394be5",
+            "name": "User 23",
+            "email": "user23@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:52.140Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6764dc16e5985394bdf",
+            "name": "User 17",
+            "email": "user17@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:50.686Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-25T09:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:42.044Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460ab8d3a5293404d24f",
+        "title": "JIRA Sample Ticket 2",
+        "description": "Sample JIRA ticket 2 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca67b4dc16e5985394bf4",
+            "name": "User 38",
+            "email": "user38@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:55.773Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6744dc16e5985394bd8",
+            "name": "User 10",
+            "email": "user10@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:48.998Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-25T11:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:42.214Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460ab8d3a5293404d250",
+        "title": "JIRA Sample Ticket 3",
+        "description": "Sample JIRA ticket 3 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca6734dc16e5985394bd3",
+            "name": "User 5",
+            "email": "user05@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:47.741Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6774dc16e5985394be2",
+            "name": "User 20",
+            "email": "user20@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:51.453Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-25T13:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:42.402Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460ab8d3a5293404d251",
+        "title": "JIRA Sample Ticket 4",
+        "description": "Sample JIRA ticket 4 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca6754dc16e5985394bd9",
+            "name": "User 11",
+            "email": "user11@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:49.232Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6784dc16e5985394be6",
+            "name": "User 24",
+            "email": "user24@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:52.367Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-25T15:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:42.564Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460ab8d3a5293404d252",
+        "title": "JIRA Sample Ticket 5",
+        "description": "Sample JIRA ticket 5 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca6784dc16e5985394be8",
+            "name": "User 26",
+            "email": "user26@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:52.833Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca67c4dc16e5985394bf6",
+            "name": "User 40",
+            "email": "user40@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:56.225Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-25T17:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:42.745Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460bb8d3a5293404d253",
+        "title": "JIRA Sample Ticket 6",
+        "description": "Sample JIRA ticket 6 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca67a4dc16e5985394bf0",
+            "name": "User 34",
+            "email": "user34@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:54.788Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6754dc16e5985394bda",
+            "name": "User 12",
+            "email": "user12@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:49.473Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-25T19:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:43.009Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460bb8d3a5293404d254",
+        "title": "JIRA Sample Ticket 7",
+        "description": "Sample JIRA ticket 7 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca6744dc16e5985394bd6",
+            "name": "User 8",
+            "email": "user08@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:48.464Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6774dc16e5985394be3",
+            "name": "User 21",
+            "email": "user21@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:51.697Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-25T21:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:43.175Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460bb8d3a5293404d255",
+        "title": "JIRA Sample Ticket 8",
+        "description": "Sample JIRA ticket 8 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca6794dc16e5985394be9",
+            "name": "User 27",
+            "email": "user27@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:53.072Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6774dc16e5985394be4",
+            "name": "User 22",
+            "email": "user22@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:51.919Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-25T23:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:43.337Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460bb8d3a5293404d256",
+        "title": "JIRA Sample Ticket 9",
+        "description": "Sample JIRA ticket 9 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca6794dc16e5985394beb",
+            "name": "User 29",
+            "email": "user29@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:53.618Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6784dc16e5985394be7",
+            "name": "User 25",
+            "email": "user25@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:52.603Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-26T01:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:43.515Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460bb8d3a5293404d257",
+        "title": "JIRA Sample Ticket 10",
+        "description": "Sample JIRA ticket 10 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca67a4dc16e5985394bef",
+            "name": "User 33",
+            "email": "user33@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:54.542Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-26T03:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:43.739Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460bb8d3a5293404d258",
+        "title": "JIRA Sample Ticket 11",
+        "description": "Sample JIRA ticket 11 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca6734dc16e5985394bd1",
+            "name": "User 3",
+            "email": "user03@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:47.270Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6734dc16e5985394bd0",
+            "name": "User 2",
+            "email": "user02@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:47.044Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-26T05:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:43.974Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460cb8d3a5293404d259",
+        "title": "JIRA Sample Ticket 12",
+        "description": "Sample JIRA ticket 12 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca6794dc16e5985394bec",
+            "name": "User 30",
+            "email": "user30@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:53.850Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6744dc16e5985394bd5",
+            "name": "User 7",
+            "email": "user07@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:48.231Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-26T07:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:44.129Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460cb8d3a5293404d25a",
+        "title": "JIRA Sample Ticket 13",
+        "description": "Sample JIRA ticket 13 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca67b4dc16e5985394bf3",
+            "name": "User 37",
+            "email": "user37@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:55.532Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6754dc16e5985394bdb",
+            "name": "User 13",
+            "email": "user13@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:49.713Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-26T09:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:44.258Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460cb8d3a5293404d25b",
+        "title": "JIRA Sample Ticket 14",
+        "description": "Sample JIRA ticket 14 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca67b4dc16e5985394bf5",
+            "name": "User 39",
+            "email": "user39@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:55.994Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca67a4dc16e5985394bed",
+            "name": "User 31",
+            "email": "user31@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:54.074Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-26T11:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:44.410Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460cb8d3a5293404d25c",
+        "title": "JIRA Sample Ticket 15",
+        "description": "Sample JIRA ticket 15 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca6764dc16e5985394bdd",
+            "name": "User 15",
+            "email": "user15@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:50.198Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca67a4dc16e5985394bee",
+            "name": "User 32",
+            "email": "user32@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:54.300Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-26T13:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:44.573Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460cb8d3a5293404d25d",
+        "title": "JIRA Sample Ticket 16",
+        "description": "Sample JIRA ticket 16 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca6794dc16e5985394bea",
+            "name": "User 28",
+            "email": "user28@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:53.350Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca67b4dc16e5985394bf1",
+            "name": "User 35",
+            "email": "user35@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:55.030Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-26T15:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:44.754Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460db8d3a5293404d25e",
+        "title": "JIRA Sample Ticket 17",
+        "description": "Sample JIRA ticket 17 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca6744dc16e5985394bd7",
+            "name": "User 9",
+            "email": "user09@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:48.754Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6734dc16e5985394bd2",
+            "name": "User 4",
+            "email": "user04@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:47.509Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-26T17:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:45.000Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460db8d3a5293404d25f",
+        "title": "JIRA Sample Ticket 18",
+        "description": "Sample JIRA ticket 18 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca6764dc16e5985394bdf",
+            "name": "User 17",
+            "email": "user17@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:50.686Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6764dc16e5985394bde",
+            "name": "User 16",
+            "email": "user16@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:50.459Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-26T19:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:45.315Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460db8d3a5293404d260",
+        "title": "JIRA Sample Ticket 19",
+        "description": "Sample JIRA ticket 19 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca6744dc16e5985394bd8",
+            "name": "User 10",
+            "email": "user10@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:48.998Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6764dc16e5985394be0",
+            "name": "User 18",
+            "email": "user18@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:50.942Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-26T21:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:45.477Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460db8d3a5293404d261",
+        "title": "JIRA Sample Ticket 20",
+        "description": "Sample JIRA ticket 20 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca6774dc16e5985394be2",
+            "name": "User 20",
+            "email": "user20@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:51.453Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-26T23:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:45.613Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460db8d3a5293404d262",
+        "title": "JIRA Sample Ticket 21",
+        "description": "Sample JIRA ticket 21 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca6784dc16e5985394be6",
+            "name": "User 24",
+            "email": "user24@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:52.367Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6754dc16e5985394bdc",
+            "name": "User 14",
+            "email": "user14@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:49.962Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-27T01:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:45.759Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460db8d3a5293404d263",
+        "title": "JIRA Sample Ticket 22",
+        "description": "Sample JIRA ticket 22 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca67c4dc16e5985394bf6",
+            "name": "User 40",
+            "email": "user40@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:56.225Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6884dc16e5985394c26",
+            "name": "Manager 8",
+            "email": "manager08@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:08.963Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-27T03:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:45.919Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460eb8d3a5293404d264",
+        "title": "JIRA Sample Ticket 23",
+        "description": "Sample JIRA ticket 23 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca6754dc16e5985394bda",
+            "name": "User 12",
+            "email": "user12@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:49.473Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6894dc16e5985394c27",
+            "name": "Manager 9",
+            "email": "manager09@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:09.261Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-27T05:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:46.073Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460eb8d3a5293404d265",
+        "title": "JIRA Sample Ticket 24",
+        "description": "Sample JIRA ticket 24 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca6774dc16e5985394be3",
+            "name": "User 21",
+            "email": "user21@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:51.697Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca68c4dc16e5985394c31",
+            "name": "Manager 19",
+            "email": "manager19@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:12.326Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-27T07:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:46.242Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460eb8d3a5293404d266",
+        "title": "JIRA Sample Ticket 25",
+        "description": "Sample JIRA ticket 25 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca6774dc16e5985394be4",
+            "name": "User 22",
+            "email": "user22@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:51.919Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca68a4dc16e5985394c2c",
+            "name": "Manager 14",
+            "email": "manager14@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:10.833Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-27T09:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:46.391Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460eb8d3a5293404d267",
+        "title": "JIRA Sample Ticket 26",
+        "description": "Sample JIRA ticket 26 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca6784dc16e5985394be7",
+            "name": "User 25",
+            "email": "user25@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:52.603Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca68a4dc16e5985394c2a",
+            "name": "Manager 12",
+            "email": "manager12@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:10.232Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-27T11:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:46.553Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460eb8d3a5293404d268",
+        "title": "JIRA Sample Ticket 27",
+        "description": "Sample JIRA ticket 27 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca67b4dc16e5985394bf2",
+            "name": "User 36",
+            "email": "user36@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:55.290Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca68a4dc16e5985394c2b",
+            "name": "Manager 13",
+            "email": "manager13@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:10.529Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-27T13:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:46.698Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460eb8d3a5293404d269",
+        "title": "JIRA Sample Ticket 28",
+        "description": "Sample JIRA ticket 28 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca6734dc16e5985394bd0",
+            "name": "User 2",
+            "email": "user02@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:47.044Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6884dc16e5985394c25",
+            "name": "Manager 7",
+            "email": "manager07@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:08.712Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-27T15:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:46.832Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460eb8d3a5293404d26a",
+        "title": "JIRA Sample Ticket 29",
+        "description": "Sample JIRA ticket 29 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca6744dc16e5985394bd5",
+            "name": "User 7",
+            "email": "user07@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:48.231Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca68b4dc16e5985394c2d",
+            "name": "Manager 15",
+            "email": "manager15@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:11.131Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-27T17:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:46.977Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460fb8d3a5293404d26b",
+        "title": "JIRA Sample Ticket 30",
+        "description": "Sample JIRA ticket 30 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca6754dc16e5985394bdb",
+            "name": "User 13",
+            "email": "user13@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:49.713Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-27T19:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:47.127Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460fb8d3a5293404d26c",
+        "title": "JIRA Sample Ticket 31",
+        "description": "Sample JIRA ticket 31 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca67a4dc16e5985394bed",
+            "name": "User 31",
+            "email": "user31@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:54.074Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6894dc16e5985394c29",
+            "name": "Manager 11",
+            "email": "manager11@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:09.951Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-27T21:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:47.272Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460fb8d3a5293404d26d",
+        "title": "JIRA Sample Ticket 32",
+        "description": "Sample JIRA ticket 32 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca67a4dc16e5985394bee",
+            "name": "User 32",
+            "email": "user32@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:54.300Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca68b4dc16e5985394c2f",
+            "name": "Manager 17",
+            "email": "manager17@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:11.737Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-27T23:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:47.430Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460fb8d3a5293404d26e",
+        "title": "JIRA Sample Ticket 33",
+        "description": "Sample JIRA ticket 33 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca67b4dc16e5985394bf1",
+            "name": "User 35",
+            "email": "user35@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:55.030Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca68c4dc16e5985394c30",
+            "name": "Manager 18",
+            "email": "manager18@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:12.038Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-28T01:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:47.600Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460fb8d3a5293404d26f",
+        "title": "JIRA Sample Ticket 34",
+        "description": "Sample JIRA ticket 34 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca6734dc16e5985394bd2",
+            "name": "User 4",
+            "email": "user04@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:47.509Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6864dc16e5985394c1f",
+            "name": "Manager 1",
+            "email": "manager01@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:06.881Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-28T03:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:47.759Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d460fb8d3a5293404d270",
+        "title": "JIRA Sample Ticket 35",
+        "description": "Sample JIRA ticket 35 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca6764dc16e5985394bde",
+            "name": "User 16",
+            "email": "user16@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:50.459Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6874dc16e5985394c22",
+            "name": "Manager 4",
+            "email": "manager04@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:07.808Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-28T05:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:47.955Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4610b8d3a5293404d271",
+        "title": "JIRA Sample Ticket 36",
+        "description": "Sample JIRA ticket 36 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca6764dc16e5985394be0",
+            "name": "User 18",
+            "email": "user18@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:50.942Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6834dc16e5985394c12",
+            "name": "Admin 28",
+            "email": "admin28@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:03.361Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-28T07:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:48.126Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4610b8d3a5293404d272",
+        "title": "JIRA Sample Ticket 37",
+        "description": "Sample JIRA ticket 37 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca6724dc16e5985394bcf",
+            "name": "User 1",
+            "email": "user01@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:46.742Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6844dc16e5985394c18",
+            "name": "Admin 34",
+            "email": "admin34@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:04.939Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-28T09:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:48.274Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4610b8d3a5293404d273",
+        "title": "JIRA Sample Ticket 38",
+        "description": "Sample JIRA ticket 38 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca6754dc16e5985394bdc",
+            "name": "User 14",
+            "email": "user14@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:49.962Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6864dc16e5985394c1d",
+            "name": "Admin 39",
+            "email": "admin39@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:06.275Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-28T11:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:48.418Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4610b8d3a5293404d274",
+        "title": "JIRA Sample Ticket 39",
+        "description": "Sample JIRA ticket 39 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca6884dc16e5985394c26",
+            "name": "Manager 8",
+            "email": "manager08@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:08.963Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6824dc16e5985394c10",
+            "name": "Admin 26",
+            "email": "admin26@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:02.860Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-28T13:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:48.565Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4610b8d3a5293404d275",
+        "title": "JIRA Sample Ticket 40",
+        "description": "Sample JIRA ticket 40 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca6894dc16e5985394c27",
+            "name": "Manager 9",
+            "email": "manager09@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:09.261Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-28T15:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:48.725Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4610b8d3a5293404d276",
+        "title": "JIRA Sample Ticket 41",
+        "description": "Sample JIRA ticket 41 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca68c4dc16e5985394c31",
+            "name": "Manager 19",
+            "email": "manager19@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:12.326Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6864dc16e5985394c1e",
+            "name": "Admin 40",
+            "email": "admin40@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:06.606Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-28T17:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:48.875Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4611b8d3a5293404d277",
+        "title": "JIRA Sample Ticket 42",
+        "description": "Sample JIRA ticket 42 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca68a4dc16e5985394c2c",
+            "name": "Manager 14",
+            "email": "manager14@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:10.833Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6824dc16e5985394c0e",
+            "name": "Admin 24",
+            "email": "admin24@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:02.380Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-28T19:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:49.038Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4611b8d3a5293404d278",
+        "title": "JIRA Sample Ticket 43",
+        "description": "Sample JIRA ticket 43 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca68a4dc16e5985394c2a",
+            "name": "Manager 12",
+            "email": "manager12@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:10.232Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6874dc16e5985394c21",
+            "name": "Manager 3",
+            "email": "manager03@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:07.532Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-28T21:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:49.220Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4611b8d3a5293404d279",
+        "title": "JIRA Sample Ticket 44",
+        "description": "Sample JIRA ticket 44 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca68a4dc16e5985394c2b",
+            "name": "Manager 13",
+            "email": "manager13@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:10.529Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6824dc16e5985394c0f",
+            "name": "Admin 25",
+            "email": "admin25@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:02.617Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-28T23:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:49.365Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4611b8d3a5293404d27a",
+        "title": "JIRA Sample Ticket 45",
+        "description": "Sample JIRA ticket 45 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca6884dc16e5985394c25",
+            "name": "Manager 7",
+            "email": "manager07@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:08.712Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6854dc16e5985394c1c",
+            "name": "Admin 38",
+            "email": "admin38@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:05.969Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-29T01:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:49.526Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4611b8d3a5293404d27b",
+        "title": "JIRA Sample Ticket 46",
+        "description": "Sample JIRA ticket 46 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca68b4dc16e5985394c2d",
+            "name": "Manager 15",
+            "email": "manager15@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:11.131Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6844dc16e5985394c15",
+            "name": "Admin 31",
+            "email": "admin31@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:04.193Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-29T03:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:49.675Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4611b8d3a5293404d27c",
+        "title": "JIRA Sample Ticket 47",
+        "description": "Sample JIRA ticket 47 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca6874dc16e5985394c20",
+            "name": "Manager 2",
+            "email": "manager02@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:07.181Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6854dc16e5985394c1b",
+            "name": "Admin 37",
+            "email": "admin37@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:05.692Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-29T05:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:49.837Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4611b8d3a5293404d27d",
+        "title": "JIRA Sample Ticket 48",
+        "description": "Sample JIRA ticket 48 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca6894dc16e5985394c29",
+            "name": "Manager 11",
+            "email": "manager11@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:09.951Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6844dc16e5985394c16",
+            "name": "Admin 32",
+            "email": "admin32@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:04.442Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-29T07:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:49.993Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4612b8d3a5293404d27e",
+        "title": "JIRA Sample Ticket 49",
+        "description": "Sample JIRA ticket 49 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca68b4dc16e5985394c2f",
+            "name": "Manager 17",
+            "email": "manager17@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:11.737Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6854dc16e5985394c1a",
+            "name": "Admin 36",
+            "email": "admin36@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:05.435Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-29T09:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:50.139Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4612b8d3a5293404d27f",
+        "title": "JIRA Sample Ticket 50",
+        "description": "Sample JIRA ticket 50 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca68c4dc16e5985394c30",
+            "name": "Manager 18",
+            "email": "manager18@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:12.038Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-29T11:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:50.287Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4612b8d3a5293404d280",
+        "title": "JIRA Sample Ticket 51",
+        "description": "Sample JIRA ticket 51 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca6864dc16e5985394c1f",
+            "name": "Manager 1",
+            "email": "manager01@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:06.881Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca67d4dc16e5985394bfd",
+            "name": "Admin 7",
+            "email": "admin07@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:15:57.919Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-29T13:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:50.473Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4612b8d3a5293404d281",
+        "title": "JIRA Sample Ticket 52",
+        "description": "Sample JIRA ticket 52 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca6874dc16e5985394c22",
+            "name": "Manager 4",
+            "email": "manager04@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:07.808Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca67c4dc16e5985394bf8",
+            "name": "Admin 2",
+            "email": "admin02@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:15:56.713Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-29T15:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:50.644Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4612b8d3a5293404d282",
+        "title": "JIRA Sample Ticket 53",
+        "description": "Sample JIRA ticket 53 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca6834dc16e5985394c12",
+            "name": "Admin 28",
+            "email": "admin28@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:03.361Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca67d4dc16e5985394bfa",
+            "name": "Admin 4",
+            "email": "admin04@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:15:57.191Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-29T17:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:50.803Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4612b8d3a5293404d283",
+        "title": "JIRA Sample Ticket 54",
+        "description": "Sample JIRA ticket 54 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca6844dc16e5985394c18",
+            "name": "Admin 34",
+            "email": "admin34@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:04.939Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca67e4dc16e5985394bff",
+            "name": "Admin 9",
+            "email": "admin09@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:15:58.400Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-29T19:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:50.957Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4613b8d3a5293404d284",
+        "title": "JIRA Sample Ticket 55",
+        "description": "Sample JIRA ticket 55 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca6864dc16e5985394c1d",
+            "name": "Admin 39",
+            "email": "admin39@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:06.275Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca67f4dc16e5985394c03",
+            "name": "Admin 13",
+            "email": "admin13@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:15:59.420Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-29T21:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:51.115Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4613b8d3a5293404d285",
+        "title": "JIRA Sample Ticket 56",
+        "description": "Sample JIRA ticket 56 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca6824dc16e5985394c10",
+            "name": "Admin 26",
+            "email": "admin26@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:02.860Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca67f4dc16e5985394c04",
+            "name": "Admin 14",
+            "email": "admin14@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:15:59.706Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-29T23:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:51.252Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4613b8d3a5293404d286",
+        "title": "JIRA Sample Ticket 57",
+        "description": "Sample JIRA ticket 57 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca6844dc16e5985394c17",
+            "name": "Admin 33",
+            "email": "admin33@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:04.671Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca67f4dc16e5985394c05",
+            "name": "Admin 15",
+            "email": "admin15@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:15:59.953Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-30T01:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:51.397Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4613b8d3a5293404d287",
+        "title": "JIRA Sample Ticket 59",
+        "description": "Sample JIRA ticket 59 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca6824dc16e5985394c0e",
+            "name": "Admin 24",
+            "email": "admin24@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:02.380Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6804dc16e5985394c07",
+            "name": "Admin 17",
+            "email": "admin17@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:00.441Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-30T05:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:51.527Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4613b8d3a5293404d288",
+        "title": "JIRA Sample Ticket 60",
+        "description": "Sample JIRA ticket 60 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca6874dc16e5985394c21",
+            "name": "Manager 3",
+            "email": "manager03@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:07.532Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-30T07:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:51.685Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4613b8d3a5293404d289",
+        "title": "JIRA Sample Ticket 61",
+        "description": "Sample JIRA ticket 61 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca6824dc16e5985394c0f",
+            "name": "Admin 25",
+            "email": "admin25@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:02.617Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6804dc16e5985394c09",
+            "name": "Admin 19",
+            "email": "admin19@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:00.996Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-30T09:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:51.847Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4613b8d3a5293404d28a",
+        "title": "JIRA Sample Ticket 62",
+        "description": "Sample JIRA ticket 62 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca6854dc16e5985394c1c",
+            "name": "Admin 38",
+            "email": "admin38@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:05.969Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6814dc16e5985394c0a",
+            "name": "Admin 20",
+            "email": "admin20@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:01.293Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-30T11:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:51.997Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4614b8d3a5293404d28b",
+        "title": "JIRA Sample Ticket 63",
+        "description": "Sample JIRA ticket 63 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca6844dc16e5985394c15",
+            "name": "Admin 31",
+            "email": "admin31@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:04.193Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6814dc16e5985394c0b",
+            "name": "Admin 21",
+            "email": "admin21@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:01.579Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-30T13:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:52.160Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4614b8d3a5293404d28c",
+        "title": "JIRA Sample Ticket 64",
+        "description": "Sample JIRA ticket 64 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca6854dc16e5985394c1b",
+            "name": "Admin 37",
+            "email": "admin37@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:05.692Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6814dc16e5985394c0c",
+            "name": "Admin 22",
+            "email": "admin22@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:01.818Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-30T15:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:52.297Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4614b8d3a5293404d28d",
+        "title": "JIRA Sample Ticket 65",
+        "description": "Sample JIRA ticket 65 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca6844dc16e5985394c16",
+            "name": "Admin 32",
+            "email": "admin32@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:04.442Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6824dc16e5985394c0d",
+            "name": "Admin 23",
+            "email": "admin23@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:02.119Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-30T17:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:52.461Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4614b8d3a5293404d28e",
+        "title": "JIRA Sample Ticket 66",
+        "description": "Sample JIRA ticket 66 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca6854dc16e5985394c1a",
+            "name": "Admin 36",
+            "email": "admin36@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:05.435Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6834dc16e5985394c11",
+            "name": "Admin 27",
+            "email": "admin27@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:03.090Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-30T19:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:52.633Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4614b8d3a5293404d28f",
+        "title": "JIRA Sample Ticket 67",
+        "description": "Sample JIRA ticket 67 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca6834dc16e5985394c13",
+            "name": "Admin 29",
+            "email": "admin29@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:03.608Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6834dc16e5985394c14",
+            "name": "Admin 30",
+            "email": "admin30@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:03.924Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-30T21:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:52.775Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4614b8d3a5293404d290",
+        "title": "JIRA Sample Ticket 69",
+        "description": "Sample JIRA ticket 69 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca67c4dc16e5985394bf8",
+            "name": "Admin 2",
+            "email": "admin02@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:15:56.713Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6854dc16e5985394c19",
+            "name": "Admin 35",
+            "email": "admin35@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:05.195Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-31T01:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:52.952Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4615b8d3a5293404d291",
+        "title": "JIRA Sample Ticket 70",
+        "description": "Sample JIRA ticket 70 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca67d4dc16e5985394bfa",
+            "name": "Admin 4",
+            "email": "admin04@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:15:57.191Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-31T03:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:53.113Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4615b8d3a5293404d292",
+        "title": "JIRA Sample Ticket 71",
+        "description": "Sample JIRA ticket 71 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca67e4dc16e5985394bff",
+            "name": "Admin 9",
+            "email": "admin09@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:15:58.400Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6884dc16e5985394c24",
+            "name": "Manager 6",
+            "email": "manager06@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:08.442Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-31T05:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:53.275Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4615b8d3a5293404d293",
+        "title": "JIRA Sample Ticket 72",
+        "description": "Sample JIRA ticket 72 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca67f4dc16e5985394c03",
+            "name": "Admin 13",
+            "email": "admin13@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:15:59.420Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6894dc16e5985394c28",
+            "name": "Manager 10",
+            "email": "manager10@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:09.657Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-31T07:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:53.433Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4615b8d3a5293404d294",
+        "title": "JIRA Sample Ticket 73",
+        "description": "Sample JIRA ticket 73 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca67f4dc16e5985394c04",
+            "name": "Admin 14",
+            "email": "admin14@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:15:59.706Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca68b4dc16e5985394c2e",
+            "name": "Manager 16",
+            "email": "manager16@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:11.408Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-31T09:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:53.600Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4615b8d3a5293404d295",
+        "title": "JIRA Sample Ticket 74",
+        "description": "Sample JIRA ticket 74 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca67f4dc16e5985394c05",
+            "name": "Admin 15",
+            "email": "admin15@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:15:59.953Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6784dc16e5985394be5",
+            "name": "User 23",
+            "email": "user23@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:52.140Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-31T11:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:53.754Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4615b8d3a5293404d296",
+        "title": "JIRA Sample Ticket 76",
+        "description": "Sample JIRA ticket 76 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca6804dc16e5985394c07",
+            "name": "Admin 17",
+            "email": "admin17@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:00.441Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6734dc16e5985394bd3",
+            "name": "User 5",
+            "email": "user05@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:47.741Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-31T15:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:53.924Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4616b8d3a5293404d297",
+        "title": "JIRA Sample Ticket 77",
+        "description": "Sample JIRA ticket 77 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca6804dc16e5985394c08",
+            "name": "Admin 18",
+            "email": "admin18@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:00.718Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6754dc16e5985394bd9",
+            "name": "User 11",
+            "email": "user11@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:49.232Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-31T17:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:54.074Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4616b8d3a5293404d298",
+        "title": "JIRA Sample Ticket 78",
+        "description": "Sample JIRA ticket 78 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca6804dc16e5985394c09",
+            "name": "Admin 19",
+            "email": "admin19@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:00.996Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6784dc16e5985394be8",
+            "name": "User 26",
+            "email": "user26@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:52.833Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-31T19:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:54.242Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4616b8d3a5293404d299",
+        "title": "JIRA Sample Ticket 79",
+        "description": "Sample JIRA ticket 79 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca6814dc16e5985394c0a",
+            "name": "Admin 20",
+            "email": "admin20@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:01.293Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca67a4dc16e5985394bf0",
+            "name": "User 34",
+            "email": "user34@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:54.788Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-31T21:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:54.400Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4616b8d3a5293404d29a",
+        "title": "JIRA Sample Ticket 80",
+        "description": "Sample JIRA ticket 80 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca6814dc16e5985394c0b",
+            "name": "Admin 21",
+            "email": "admin21@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:01.579Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-08-31T23:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:54.561Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4616b8d3a5293404d29b",
+        "title": "JIRA Sample Ticket 81",
+        "description": "Sample JIRA ticket 81 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca6814dc16e5985394c0c",
+            "name": "Admin 22",
+            "email": "admin22@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:01.818Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6794dc16e5985394be9",
+            "name": "User 27",
+            "email": "user27@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:53.072Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-09-01T01:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:54.729Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4616b8d3a5293404d29c",
+        "title": "JIRA Sample Ticket 82",
+        "description": "Sample JIRA ticket 82 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca6824dc16e5985394c0d",
+            "name": "Admin 23",
+            "email": "admin23@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:02.119Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6794dc16e5985394beb",
+            "name": "User 29",
+            "email": "user29@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:53.618Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-09-01T03:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:54.897Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4617b8d3a5293404d29d",
+        "title": "JIRA Sample Ticket 83",
+        "description": "Sample JIRA ticket 83 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca6834dc16e5985394c11",
+            "name": "Admin 27",
+            "email": "admin27@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:03.090Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca67a4dc16e5985394bef",
+            "name": "User 33",
+            "email": "user33@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:54.542Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-09-01T05:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:55.046Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4617b8d3a5293404d29e",
+        "title": "JIRA Sample Ticket 84",
+        "description": "Sample JIRA ticket 84 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca6834dc16e5985394c14",
+            "name": "Admin 30",
+            "email": "admin30@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:03.924Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6734dc16e5985394bd1",
+            "name": "User 3",
+            "email": "user03@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:47.270Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-09-01T07:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:55.237Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4617b8d3a5293404d29f",
+        "title": "JIRA Sample Ticket 86",
+        "description": "Sample JIRA ticket 86 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca6854dc16e5985394c19",
+            "name": "Admin 35",
+            "email": "admin35@example.com",
+            "role": "admin",
+            "createdAt": "2026-08-24T20:16:05.195Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca67b4dc16e5985394bf3",
+            "name": "User 37",
+            "email": "user37@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:55.532Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-09-01T11:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:55.407Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4617b8d3a5293404d2a0",
+        "title": "JIRA Sample Ticket 87",
+        "description": "Sample JIRA ticket 87 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca6884dc16e5985394c23",
+            "name": "Manager 5",
+            "email": "manager05@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:08.052Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca67b4dc16e5985394bf5",
+            "name": "User 39",
+            "email": "user39@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:55.994Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-09-01T13:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:55.563Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4617b8d3a5293404d2a1",
+        "title": "JIRA Sample Ticket 88",
+        "description": "Sample JIRA ticket 88 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca6884dc16e5985394c24",
+            "name": "Manager 6",
+            "email": "manager06@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:08.442Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6764dc16e5985394bdd",
+            "name": "User 15",
+            "email": "user15@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:50.198Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-09-01T15:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:55.739Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4617b8d3a5293404d2a2",
+        "title": "JIRA Sample Ticket 89",
+        "description": "Sample JIRA ticket 89 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca6894dc16e5985394c28",
+            "name": "Manager 10",
+            "email": "manager10@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:09.657Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6794dc16e5985394bea",
+            "name": "User 28",
+            "email": "user28@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:53.350Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-09-01T17:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:55.879Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4618b8d3a5293404d2a3",
+        "title": "JIRA Sample Ticket 90",
+        "description": "Sample JIRA ticket 90 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca68b4dc16e5985394c2e",
+            "name": "Manager 16",
+            "email": "manager16@example.com",
+            "role": "manager",
+            "createdAt": "2026-08-24T20:16:11.408Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-09-01T19:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:56.074Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4618b8d3a5293404d2a4",
+        "title": "JIRA Sample Ticket 91",
+        "description": "Sample JIRA ticket 91 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca6784dc16e5985394be5",
+            "name": "User 23",
+            "email": "user23@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:52.140Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6764dc16e5985394bdf",
+            "name": "User 17",
+            "email": "user17@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:50.686Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-09-01T21:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:56.247Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4618b8d3a5293404d2a5",
+        "title": "JIRA Sample Ticket 92",
+        "description": "Sample JIRA ticket 92 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca67b4dc16e5985394bf4",
+            "name": "User 38",
+            "email": "user38@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:55.773Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6744dc16e5985394bd8",
+            "name": "User 10",
+            "email": "user10@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:48.998Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-09-01T23:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:56.404Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4618b8d3a5293404d2a6",
+        "title": "JIRA Sample Ticket 93",
+        "description": "Sample JIRA ticket 93 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca6734dc16e5985394bd3",
+            "name": "User 5",
+            "email": "user05@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:47.741Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6774dc16e5985394be2",
+            "name": "User 20",
+            "email": "user20@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:51.453Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-09-02T01:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:56.556Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4618b8d3a5293404d2a7",
+        "title": "JIRA Sample Ticket 94",
+        "description": "Sample JIRA ticket 94 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca6754dc16e5985394bd9",
+            "name": "User 11",
+            "email": "user11@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:49.232Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6784dc16e5985394be6",
+            "name": "User 24",
+            "email": "user24@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:52.367Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-09-02T03:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:56.713Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4618b8d3a5293404d2a8",
+        "title": "JIRA Sample Ticket 95",
+        "description": "Sample JIRA ticket 95 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca6784dc16e5985394be8",
+            "name": "User 26",
+            "email": "user26@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:52.833Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca67c4dc16e5985394bf6",
+            "name": "User 40",
+            "email": "user40@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:56.225Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-09-02T05:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:56.886Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4619b8d3a5293404d2a9",
+        "title": "JIRA Sample Ticket 96",
+        "description": "Sample JIRA ticket 96 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca67a4dc16e5985394bf0",
+            "name": "User 34",
+            "email": "user34@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:54.788Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6754dc16e5985394bda",
+            "name": "User 12",
+            "email": "user12@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:49.473Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-09-02T07:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:57.037Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4619b8d3a5293404d2aa",
+        "title": "JIRA Sample Ticket 97",
+        "description": "Sample JIRA ticket 97 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca6744dc16e5985394bd6",
+            "name": "User 8",
+            "email": "user08@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:48.464Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6774dc16e5985394be3",
+            "name": "User 21",
+            "email": "user21@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:51.697Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-09-02T09:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:57.166Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4619b8d3a5293404d2ab",
+        "title": "JIRA Sample Ticket 98",
+        "description": "Sample JIRA ticket 98 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "in progress",
+        "priority": "medium",
+        "reporter": {
+            "_id": "6a8ca6794dc16e5985394be9",
+            "name": "User 27",
+            "email": "user27@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:53.072Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6774dc16e5985394be4",
+            "name": "User 22",
+            "email": "user22@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:51.919Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-09-02T11:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:57.318Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4619b8d3a5293404d2ac",
+        "title": "JIRA Sample Ticket 99",
+        "description": "Sample JIRA ticket 99 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "closed",
+        "priority": "high",
+        "reporter": {
+            "_id": "6a8ca6794dc16e5985394beb",
+            "name": "User 29",
+            "email": "user29@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:53.618Z",
+            "__v": 0
+        },
+        "assignee": {
+            "_id": "6a8ca6784dc16e5985394be7",
+            "name": "User 25",
+            "email": "user25@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:52.603Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-09-02T13:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:57.468Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d4619b8d3a5293404d2ad",
+        "title": "JIRA Sample Ticket 100",
+        "description": "Sample JIRA ticket 100 for testing ticket creation, assignment, status and priority workflows.",
+        "status": "open",
+        "priority": "low",
+        "reporter": {
+            "_id": "6a8ca67a4dc16e5985394bef",
+            "name": "User 33",
+            "email": "user33@example.com",
+            "role": "user",
+            "createdAt": "2026-08-24T20:15:54.542Z",
+            "__v": 0
+        },
+        "comments": [],
+        "createdAt": "2026-09-02T15:00:00.000Z",
+        "updatedAt": "2026-08-25T07:36:57.624Z",
+        "__v": 0
+    }
+]
