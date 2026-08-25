@@ -1,0 +1,826 @@
+[
+    {
+        "_id": "6a8ca6784dc16e5985394be5",
+        "name": "User 23",
+        "email": "user23@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:52.140Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca67b4dc16e5985394bf4",
+        "name": "User 38",
+        "email": "user38@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:55.773Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca67d4dc16e5985394bfc",
+        "name": "Admin 6",
+        "email": "admin06@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:15:57.680Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6804dc16e5985394c08",
+        "name": "Admin 18",
+        "email": "admin18@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:16:00.718Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6734dc16e5985394bd3",
+        "name": "User 5",
+        "email": "user05@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:47.741Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6754dc16e5985394bd9",
+        "name": "User 11",
+        "email": "user11@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:49.232Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca67f4dc16e5985394c02",
+        "name": "Admin 12",
+        "email": "admin12@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:15:59.189Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca67f4dc16e5985394c05",
+        "name": "Admin 15",
+        "email": "admin15@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:15:59.953Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6784dc16e5985394be8",
+        "name": "User 26",
+        "email": "user26@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:52.833Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca67a4dc16e5985394bf0",
+        "name": "User 34",
+        "email": "user34@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:54.788Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca67c4dc16e5985394bf9",
+        "name": "Admin 3",
+        "email": "admin03@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:15:56.949Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca67d4dc16e5985394bfd",
+        "name": "Admin 7",
+        "email": "admin07@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:15:57.919Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6744dc16e5985394bd6",
+        "name": "User 8",
+        "email": "user08@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:48.464Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6794dc16e5985394be9",
+        "name": "User 27",
+        "email": "user27@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:53.072Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6794dc16e5985394beb",
+        "name": "User 29",
+        "email": "user29@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:53.618Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca67a4dc16e5985394bef",
+        "name": "User 33",
+        "email": "user33@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:54.542Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca67f4dc16e5985394c03",
+        "name": "Admin 13",
+        "email": "admin13@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:15:59.420Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6734dc16e5985394bd1",
+        "name": "User 3",
+        "email": "user03@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:47.270Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6794dc16e5985394bec",
+        "name": "User 30",
+        "email": "user30@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:53.850Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca67b4dc16e5985394bf3",
+        "name": "User 37",
+        "email": "user37@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:55.532Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca67b4dc16e5985394bf5",
+        "name": "User 39",
+        "email": "user39@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:55.994Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6764dc16e5985394bdd",
+        "name": "User 15",
+        "email": "user15@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:50.198Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6794dc16e5985394bea",
+        "name": "User 28",
+        "email": "user28@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:53.350Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca67c4dc16e5985394bf8",
+        "name": "Admin 2",
+        "email": "admin02@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:15:56.713Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6734dc16e5985394bd4",
+        "name": "User 6",
+        "email": "user06@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:47.981Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6744dc16e5985394bd7",
+        "name": "User 9",
+        "email": "user09@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:48.754Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6764dc16e5985394bdf",
+        "name": "User 17",
+        "email": "user17@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:50.686Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6744dc16e5985394bd8",
+        "name": "User 10",
+        "email": "user10@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:48.998Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6774dc16e5985394be2",
+        "name": "User 20",
+        "email": "user20@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:51.453Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6784dc16e5985394be6",
+        "name": "User 24",
+        "email": "user24@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:52.367Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca67c4dc16e5985394bf6",
+        "name": "User 40",
+        "email": "user40@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:56.225Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca67c4dc16e5985394bf7",
+        "name": "Admin 1",
+        "email": "admin01@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:15:56.458Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca67d4dc16e5985394bfa",
+        "name": "Admin 4",
+        "email": "admin04@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:15:57.191Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6804dc16e5985394c09",
+        "name": "Admin 19",
+        "email": "admin19@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:16:00.996Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6754dc16e5985394bda",
+        "name": "User 12",
+        "email": "user12@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:49.473Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6774dc16e5985394be3",
+        "name": "User 21",
+        "email": "user21@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:51.697Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6774dc16e5985394be4",
+        "name": "User 22",
+        "email": "user22@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:51.919Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6784dc16e5985394be7",
+        "name": "User 25",
+        "email": "user25@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:52.603Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca67b4dc16e5985394bf2",
+        "name": "User 36",
+        "email": "user36@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:55.290Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca67e4dc16e5985394bff",
+        "name": "Admin 9",
+        "email": "admin09@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:15:58.400Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca67f4dc16e5985394c04",
+        "name": "Admin 14",
+        "email": "admin14@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:15:59.706Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6804dc16e5985394c06",
+        "name": "Admin 16",
+        "email": "admin16@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:16:00.219Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6734dc16e5985394bd0",
+        "name": "User 2",
+        "email": "user02@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:47.044Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6744dc16e5985394bd5",
+        "name": "User 7",
+        "email": "user07@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:48.231Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6754dc16e5985394bdb",
+        "name": "User 13",
+        "email": "user13@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:49.713Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6774dc16e5985394be1",
+        "name": "User 19",
+        "email": "user19@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:51.199Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca67a4dc16e5985394bed",
+        "name": "User 31",
+        "email": "user31@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:54.074Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca67a4dc16e5985394bee",
+        "name": "User 32",
+        "email": "user32@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:54.300Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca67b4dc16e5985394bf1",
+        "name": "User 35",
+        "email": "user35@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:55.030Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca67e4dc16e5985394c01",
+        "name": "Admin 11",
+        "email": "admin11@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:15:58.939Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6734dc16e5985394bd2",
+        "name": "User 4",
+        "email": "user04@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:47.509Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6764dc16e5985394bde",
+        "name": "User 16",
+        "email": "user16@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:50.459Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca67d4dc16e5985394bfb",
+        "name": "Admin 5",
+        "email": "admin05@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:15:57.444Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca67e4dc16e5985394bfe",
+        "name": "Admin 8",
+        "email": "admin08@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:15:58.161Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6764dc16e5985394be0",
+        "name": "User 18",
+        "email": "user18@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:50.942Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6724dc16e5985394bcf",
+        "name": "User 1",
+        "email": "user01@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:46.742Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6754dc16e5985394bdc",
+        "name": "User 14",
+        "email": "user14@example.com",
+        "role": "user",
+        "createdAt": "2026-08-24T20:15:49.962Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca67e4dc16e5985394c00",
+        "name": "Admin 10",
+        "email": "admin10@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:15:58.628Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6804dc16e5985394c07",
+        "name": "Admin 17",
+        "email": "admin17@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:16:00.441Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6814dc16e5985394c0a",
+        "name": "Admin 20",
+        "email": "admin20@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:16:01.293Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6884dc16e5985394c26",
+        "name": "Manager 8",
+        "email": "manager08@example.com",
+        "role": "manager",
+        "createdAt": "2026-08-24T20:16:08.963Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6894dc16e5985394c27",
+        "name": "Manager 9",
+        "email": "manager09@example.com",
+        "role": "manager",
+        "createdAt": "2026-08-24T20:16:09.261Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca68c4dc16e5985394c31",
+        "name": "Manager 19",
+        "email": "manager19@example.com",
+        "role": "manager",
+        "createdAt": "2026-08-24T20:16:12.326Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6854dc16e5985394c19",
+        "name": "Admin 35",
+        "email": "admin35@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:16:05.195Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca68a4dc16e5985394c2c",
+        "name": "Manager 14",
+        "email": "manager14@example.com",
+        "role": "manager",
+        "createdAt": "2026-08-24T20:16:10.833Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6814dc16e5985394c0c",
+        "name": "Admin 22",
+        "email": "admin22@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:16:01.818Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6834dc16e5985394c12",
+        "name": "Admin 28",
+        "email": "admin28@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:16:03.361Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca68a4dc16e5985394c2a",
+        "name": "Manager 12",
+        "email": "manager12@example.com",
+        "role": "manager",
+        "createdAt": "2026-08-24T20:16:10.232Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca68a4dc16e5985394c2b",
+        "name": "Manager 13",
+        "email": "manager13@example.com",
+        "role": "manager",
+        "createdAt": "2026-08-24T20:16:10.529Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6864dc16e5985394c1d",
+        "name": "Admin 39",
+        "email": "admin39@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:16:06.275Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6884dc16e5985394c25",
+        "name": "Manager 7",
+        "email": "manager07@example.com",
+        "role": "manager",
+        "createdAt": "2026-08-24T20:16:08.712Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca68b4dc16e5985394c2d",
+        "name": "Manager 15",
+        "email": "manager15@example.com",
+        "role": "manager",
+        "createdAt": "2026-08-24T20:16:11.131Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6814dc16e5985394c0b",
+        "name": "Admin 21",
+        "email": "admin21@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:16:01.579Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6874dc16e5985394c20",
+        "name": "Manager 2",
+        "email": "manager02@example.com",
+        "role": "manager",
+        "createdAt": "2026-08-24T20:16:07.181Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6894dc16e5985394c29",
+        "name": "Manager 11",
+        "email": "manager11@example.com",
+        "role": "manager",
+        "createdAt": "2026-08-24T20:16:09.951Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca68b4dc16e5985394c2f",
+        "name": "Manager 17",
+        "email": "manager17@example.com",
+        "role": "manager",
+        "createdAt": "2026-08-24T20:16:11.737Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca68c4dc16e5985394c30",
+        "name": "Manager 18",
+        "email": "manager18@example.com",
+        "role": "manager",
+        "createdAt": "2026-08-24T20:16:12.038Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6824dc16e5985394c10",
+        "name": "Admin 26",
+        "email": "admin26@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:16:02.860Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6844dc16e5985394c18",
+        "name": "Admin 34",
+        "email": "admin34@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:16:04.939Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6864dc16e5985394c1f",
+        "name": "Manager 1",
+        "email": "manager01@example.com",
+        "role": "manager",
+        "createdAt": "2026-08-24T20:16:06.881Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6844dc16e5985394c17",
+        "name": "Admin 33",
+        "email": "admin33@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:16:04.671Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca68b4dc16e5985394c2e",
+        "name": "Manager 16",
+        "email": "manager16@example.com",
+        "role": "manager",
+        "createdAt": "2026-08-24T20:16:11.408Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6864dc16e5985394c1e",
+        "name": "Admin 40",
+        "email": "admin40@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:16:06.606Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6824dc16e5985394c0e",
+        "name": "Admin 24",
+        "email": "admin24@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:16:02.380Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6874dc16e5985394c22",
+        "name": "Manager 4",
+        "email": "manager04@example.com",
+        "role": "manager",
+        "createdAt": "2026-08-24T20:16:07.808Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca68c4dc16e5985394c32",
+        "name": "Aditya Vikram Kirtania",
+        "email": "aditya.vikram.kirtania@example.com",
+        "role": "manager",
+        "createdAt": "2026-08-24T20:16:12.627Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6824dc16e5985394c0f",
+        "name": "Admin 25",
+        "email": "admin25@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:16:02.617Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6854dc16e5985394c1c",
+        "name": "Admin 38",
+        "email": "admin38@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:16:05.969Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6844dc16e5985394c15",
+        "name": "Admin 31",
+        "email": "admin31@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:16:04.193Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6854dc16e5985394c1b",
+        "name": "Admin 37",
+        "email": "admin37@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:16:05.692Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6874dc16e5985394c21",
+        "name": "Manager 3",
+        "email": "manager03@example.com",
+        "role": "manager",
+        "createdAt": "2026-08-24T20:16:07.532Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6824dc16e5985394c0d",
+        "name": "Admin 23",
+        "email": "admin23@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:16:02.119Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6834dc16e5985394c11",
+        "name": "Admin 27",
+        "email": "admin27@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:16:03.090Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6834dc16e5985394c14",
+        "name": "Admin 30",
+        "email": "admin30@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:16:03.924Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6844dc16e5985394c16",
+        "name": "Admin 32",
+        "email": "admin32@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:16:04.442Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6854dc16e5985394c1a",
+        "name": "Admin 36",
+        "email": "admin36@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:16:05.435Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6884dc16e5985394c23",
+        "name": "Manager 5",
+        "email": "manager05@example.com",
+        "role": "manager",
+        "createdAt": "2026-08-24T20:16:08.052Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6884dc16e5985394c24",
+        "name": "Manager 6",
+        "email": "manager06@example.com",
+        "role": "manager",
+        "createdAt": "2026-08-24T20:16:08.442Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6894dc16e5985394c28",
+        "name": "Manager 10",
+        "email": "manager10@example.com",
+        "role": "manager",
+        "createdAt": "2026-08-24T20:16:09.657Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8ca6834dc16e5985394c13",
+        "name": "Admin 29",
+        "email": "admin29@example.com",
+        "role": "admin",
+        "createdAt": "2026-08-24T20:16:03.608Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8cb3ef1375e8e5752c9da4",
+        "name": "Aditya Vikram Kirtania",
+        "email": "adityavkirtania@gmail.com",
+        "role": "user",
+        "createdAt": "2026-08-24T21:13:19.262Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8cb4051375e8e5752c9da5",
+        "name": "Aditya Vikram Kirtania2",
+        "email": "adityavkirtania2@gmail.com",
+        "role": "user",
+        "createdAt": "2026-08-24T21:13:41.138Z",
+        "__v": 0
+    },
+    {
+        "_id": "6a8d3d236157f5c6f3f1cc0f",
+        "name": "Main Admin",
+        "email": "admin@gmail.com",
+        "role": "manager",
+        "createdAt": "2026-08-25T06:58:43.781Z",
+        "__v": 0
+    }
+]
