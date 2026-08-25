@@ -11,6 +11,7 @@ const cors = require("cors");
 
 const UserRoute = require("./Routes/UserRoutes");
 const TicketRoute = require("./Routes/TicketRoutes");
+const CommentRoute = require("./Routes/CommentRoutes");
 
 const app = express();
 
@@ -24,6 +25,9 @@ app.use("/api/users", UserRoute);
 
 // Ticket routes
 app.use("/api/tickets", TicketRoute);
+
+// Comment Routes
+app.use("/api/comments", CommentRoute);
 
 
 const PORT = process.env.PORT || 8080;
